@@ -1,0 +1,1322 @@
+[
+    {
+        "name": "Geography and Environment",
+        "bn_name": "জিওগ্র্যাফি এন্ড এনভায়রনমেন্ট",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Animal Breeding & Genetic",
+        "bn_name": "এনিমেল ব্রিডিং এন্ড জেনেটিক",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Philosophy",
+        "bn_name": "দর্শন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Persian",
+        "bn_name": "ফার্সী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Physics",
+        "bn_name": "পদার্থবিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Pharmacy",
+        "bn_name": "ফার্মাসী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Political Science\/Govt. and Politics",
+        "bn_name": "রাষ্ট্রবিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Psychology",
+        "bn_name": "মনোবিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Public Administration",
+        "bn_name": "লোক প্রশাসন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Surgery  & Obstate",
+        "bn_name": "সার্জারি ও অবস্টেট",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Public Finance",
+        "bn_name": "পাবলিক ফিন্যান্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Population Science",
+        "bn_name": "পপুলেশন সাইন্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Peace & Conflict",
+        "bn_name": "পিস এন্ড কনফ্লিক্ট",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Pharmaceutical Chemistry",
+        "bn_name": "ফার্মাসিউটিক্যাল কেমেস্ট্রি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Sanskrit",
+        "bn_name": "সংস্কৃতি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Microbiology & Hygenic",
+        "bn_name": "মাইক্রোবায়োলজি এন্ড হাইজেনিক",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Social Welfare\/Social Work",
+        "bn_name": "সমাজ কল্যান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Sociology",
+        "bn_name": "সমাজ বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Soil Water and Environment Science",
+        "bn_name": "মাটি জল এবং পরিবেশ বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Statistics",
+        "bn_name": "পরিসংখ্যান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Tafsir",
+        "bn_name": "তাফসির",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Accounting",
+        "bn_name": "হিসাব বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Urdu",
+        "bn_name": "উর্দূ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Urban Development",
+        "bn_name": "নগর উন্নয়ন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "World Religion",
+        "bn_name": "বিশ্ব ধর্ম",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Women Studies",
+        "bn_name": "ইউমেন স্টাডিজ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Water & Environment Science",
+        "bn_name": "জল ও পরিবেশ বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Zoology",
+        "bn_name": "প্রাণি বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Genetic and Breeding",
+        "bn_name": "জেনেটিক এন্ড ব্রিডিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "International Law",
+        "bn_name": "আন্তর্জাতিক আইন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Akaid",
+        "bn_name": "আকাঈদ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Graphics",
+        "bn_name": "গ্রাফিক্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Fikha",
+        "bn_name": "ফিকাহ্‌",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Modern Arabic",
+        "bn_name": "মডার্ন আরবি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "History of Music",
+        "bn_name": "হিস্টোরি অব মিউজিক",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Drawing and Printing",
+        "bn_name": "ড্রইং এন্ড প্রিন্টিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Industrial Arts",
+        "bn_name": "ইন্ডাস্ট্রিয়াল আর্ট্‌স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Ethics",
+        "bn_name": "ইথিকস্‌",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Anthropology",
+        "bn_name": "নৃবিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture",
+        "bn_name": "কৃষি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture Chemistry",
+        "bn_name": "কৃষি রসায়ন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture Co-operatives",
+        "bn_name": "এগ্রিকালচার কো-অপা্রেটিভ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture Economics",
+        "bn_name": "এগ্রি. ইকোনোমিক্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agricultural Engineering",
+        "bn_name": "এগ্রিকালচারাল ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture Finance",
+        "bn_name": "এগ্রিকালচার ফিন্যান্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Applied Chemistry",
+        "bn_name": "ফলিত রসায়ন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture Marketing",
+        "bn_name": "এগ্রিকালচার মার্কেটিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture Science",
+        "bn_name": "কৃষি বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture Soil Science",
+        "bn_name": "এগ্রিকালচার সয়েল সাইন্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Animal Husbandry",
+        "bn_name": "পশু পালন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agronomy  & Aquaculture",
+        "bn_name": "এগ্রোনমী এন্ড একুয়াকালচার",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agronomy  &Aquaculture Extension",
+        "bn_name": "এগ্রোনমী এন্ড একুয়াকালচার এক্সটেনশন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Anatomy  & Histology",
+        "bn_name": "এ্যানাটমী এন্ড হিস্টুলোজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agronnomy",
+        "bn_name": "এগ্রোনমী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Anatomology",
+        "bn_name": "এ্যানাটমলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Animal Breeding  & Genetic",
+        "bn_name": "এনিমেল ব্রিডিং এন্ড জেনেটিক",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Applied Physics",
+        "bn_name": "ফলিত পদার্থ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Animal Science",
+        "bn_name": "প্রানি বিদ্যা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Animal Nutrition",
+        "bn_name": "এ্যানিমল নিউট্রিশন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture Water Management",
+        "bn_name": "এ্যাগ্রিকালচার ওয়াটার ম্যানেজমেন্ট",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture Extension",
+        "bn_name": "এ্যাগ্রিকালচার এক্সটেনশন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agro Forestry",
+        "bn_name": "এ্যাগ্রো ফরেস্ট্রি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agronomy & Aquaculture",
+        "bn_name": "এ্যাগ্রোনমী এন্ড একুয়াকালচার",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Applied Mathematics",
+        "bn_name": "ফলিত গণিত",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agriculture Statistics",
+        "bn_name": "কৃষি পরিসংখ্যান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agr.Co-operative & Marketing",
+        "bn_name": "এ্যাগ্রো, কো-অপারেটিভ এন্ড মার্কেটিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bio-Technology",
+        "bn_name": "বায়ো- টেকনোলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Crop Botany",
+        "bn_name": "ক্রপ বোটানী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Dairy Science",
+        "bn_name": "ডেইরী সাইন্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Doc.of Veterinary Science",
+        "bn_name": "ড. অব ভেটেরিনারী সাইন্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Fisheries",
+        "bn_name": "মৎস্য বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Fisheries & Aquaculture",
+        "bn_name": "ফিসারিজ এন্ড একোয়াকালচার",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Fisheries Biology",
+        "bn_name": "ফিসারিজ বায়োলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Fisheries Management",
+        "bn_name": "ফিসারিজ ম্যানেজমেন্ট",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Arabic",
+        "bn_name": "আরবি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Fisheries Technology",
+        "bn_name": "ফিসারিজ টেকনোলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Forestry",
+        "bn_name": "ফরেস্টি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Farm Power & Machinery",
+        "bn_name": "ফার্ম পাওয়ার এন্ড ম্যাশিনারী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Food Tech. & Rural Industry",
+        "bn_name": "ফুড টেক, এন্ড রুরাল ইন্ডাস্ট্রি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Farm Structure",
+        "bn_name": "ফার্ম স্ট্রাকচার",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Archaeology",
+        "bn_name": "আর্কেউলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Horticulture",
+        "bn_name": "উদ্যানবিদ্যা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Livestock",
+        "bn_name": "পশুসম্পত্তি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Microbiology  & Hygenic",
+        "bn_name": "মাইক্রোবায়োলজী এন্ড হাইজেনিক",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Production Economics",
+        "bn_name": "উৎপাদন অর্থনীতি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Plant Pathology",
+        "bn_name": "প্ল্যান্ট প্যাথলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Paratrology",
+        "bn_name": "প্যারাট্রলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Poultry Science",
+        "bn_name": "পোল্ট্রি বিদ্যা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Rural Sociology",
+        "bn_name": "রূরাল সোসোলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Surgery & Obstate",
+        "bn_name": "সার্জারী এন্ড অবস্টাকল",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Architecture Engineering",
+        "bn_name": "স্থাপত্যবিদ্যা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Chemical",
+        "bn_name": "রাসায়নিক",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Civil Engineering",
+        "bn_name": "সিভিল ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Electrical Technology",
+        "bn_name": "ইলেকট্রিক্যাল টেকনোলজি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Electrical & Electronics Engineering",
+        "bn_name": "ইলেকট্রিক্যাল এন্ড ইলেকট্রনিক্স ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Electronics",
+        "bn_name": "ইলেকট্রনিক্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Genetic Engineering",
+        "bn_name": "জেনেটিক ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangla",
+        "bn_name": "বাংলা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Industrial",
+        "bn_name": "শিল্প",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Leather Technology",
+        "bn_name": "লেদার টেকনোলজি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Marine",
+        "bn_name": "মেরিন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Mechanical Engineering",
+        "bn_name": "মেকানিক্যাল ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Metallurgy",
+        "bn_name": "ম্যাটালার্জী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Mineral",
+        "bn_name": "খনিজ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Mining",
+        "bn_name": "মাইনিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Naval Architecture",
+        "bn_name": "নাভাল আর্কিটেকচার",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Physical Planning",
+        "bn_name": "ফিজিক্যাল প্ল্যানিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Regional Planning",
+        "bn_name": "রিজঅনাল প্ল্যানিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Banking",
+        "bn_name": "ব্যাংকিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Structural",
+        "bn_name": "স্ট্রাকচারাল",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Textile Technology",
+        "bn_name": "টেক্সটাইল টেকনোলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Town Planning",
+        "bn_name": "শহর পরিকল্পনা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Urban Planning",
+        "bn_name": "নগর পরিকল্পনা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Tele-Comunication Engineering",
+        "bn_name": "টেলি-কমিউনিকেশন ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Biochemistry",
+        "bn_name": "বায়োকেমিস্ট্রি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Computer Science & Engineering",
+        "bn_name": "কম্পিউটার সায়েন্স এন্ড ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Microwave Engineering",
+        "bn_name": "মাইক্রোওয়েভ ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "A & B Section of A.M.I.E",
+        "bn_name": "এ এন্ড বি সেকশন অব এ,এম,আই,ই",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Environmental Engineering",
+        "bn_name": "এ্যানভায়রনমেন্টাল ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Medicine & Surgery",
+        "bn_name": "মেডিসিন এন্ড সার্জারী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Dental Surgery",
+        "bn_name": "ডেন্টাল সার্জারী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "B.A",
+        "bn_name": "বিএ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "B.S.S",
+        "bn_name": "বিএসএস",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "B.Sc",
+        "bn_name": "বি.এসসি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "B.com",
+        "bn_name": "বি.কম",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "L.L.B",
+        "bn_name": "এল এল বি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "B.B.A",
+        "bn_name": "বিবিএ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Building Engineering and Construction Management",
+        "bn_name": "বিল্ডিং ইঞ্জিনিয়ারিং এন্ড কন্সট্রাকশন ম্যানেজমেন্ট",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Botany",
+        "bn_name": "উদ্ভিদ বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Information Science and Liabrary Management",
+        "bn_name": "তথ্য বিজ্ঞান ও গ্রন্থাগার ব্যবস্থাপনা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Business Administration",
+        "bn_name": "ব্যবসায় প্রশাসন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Chemistry",
+        "bn_name": "রসায়ন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Clinical Psychology",
+        "bn_name": "ক্লিনিক্যাল সাইকোলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Agronomy & Aquaculture Extension",
+        "bn_name": "এগ্রোনমি এন্ড একুয়াকালচার এক্সটেনশন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Islamic History And Civilization",
+        "bn_name": "ইসলামের ইতিহাস ও সভ্যতা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Drama & Music",
+        "bn_name": "ড্রামা এন্ড মিউজিক",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Development Studies",
+        "bn_name": "উন্নয়ন শিক্ষা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Economics",
+        "bn_name": "অর্থনীতি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Education",
+        "bn_name": "শিক্ষা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Urban and Regional Planning",
+        "bn_name": "আর্বান এন্ড রিজন্যাল প্ল্যানিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Anatomy & Histology",
+        "bn_name": "এ্যানাটমি এন্ড হিস্টলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "English",
+        "bn_name": "ইংরেজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Finance",
+        "bn_name": "ফিন্যান্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Fine Arts",
+        "bn_name": "চারু কলা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Information Technology",
+        "bn_name": "ইনফরমেশন টেকনোলজি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Folklore",
+        "bn_name": "লোকাচারবিদ্যা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Geography",
+        "bn_name": "ভূগোল",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Geology\/Environment",
+        "bn_name": "ভূতত্ত্ব\/পরিবেশ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "History",
+        "bn_name": "ইতিহাস",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Home Economics",
+        "bn_name": "গার্হস্থ্য অর্থনীতি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Hadith",
+        "bn_name": "হাদিস",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "International Relations",
+        "bn_name": "আন্তর্জাতিক সম্পর্ক",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Islamic History and Culture",
+        "bn_name": "ইসলামের ইতিহাস ও সংস্কৃতি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Islamic Studies",
+        "bn_name": "ইসলামিক শিক্ষা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Information Com. Tech. (ICT)",
+        "bn_name": "ইনফরমেশন কম,টেক(আই সি টি)",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Mass Comm. & Journalism",
+        "bn_name": "গণযোগাযোগ ও সাংবাদিকতা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Law\/Jurisprudence",
+        "bn_name": "আইন\/আইনশাস্ত্র",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Library Science",
+        "bn_name": "গ্রন্থাগার বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Language\/Linguistic",
+        "bn_name": "ভাষা  বিজ্ঞান ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Management",
+        "bn_name": "ব্যবস্থাপনা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Marketing",
+        "bn_name": "মার্কেটিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Mathematics",
+        "bn_name": "গণিত",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Microbiology",
+        "bn_name": "অনুজীব বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Marine Science",
+        "bn_name": "সামুদ্রিক বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Medical Technology",
+        "bn_name": "মেডিক্যাল টেক্‌নোলজি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Pali",
+        "bn_name": "পলি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Applied Chemistry and Chemical Engineering",
+        "bn_name": "এপ্লাইড কেমিস্ট্রি এন্ড কেমিক্যাল ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": "ACCE"
+    },
+    {
+        "name": "Accounting & Information System",
+        "bn_name": "হিসাব বিজ্ঞান এবং তথ্য পদ্ধতি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Apparel Manufacturing Engineering",
+        "bn_name": "অপারেল ম্যানুফ্যাকচারিং ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Aquaculture",
+        "bn_name": "একুয়াকালচার",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "ARTS",
+        "bn_name": "আর্টস",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Automobile Engineering",
+        "bn_name": "অটোমোবাইল ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bank Management",
+        "bn_name": "ব্যাংক ম্যানেজমেন্ট",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Banking  & Insurance ",
+        "bn_name": "ব্যাংকিং এন্ড ইন্সুর‍্যান্স",
+        "category": null,
+        "description": "Banking  & Insurance "
+    },
+    {
+        "name": "Biotech & Genetic Engineering",
+        "bn_name": "বায়োটেক এন্ড জেনেটিক ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Biochemistry & Molecular Biology",
+        "bn_name": "জৈবরসায়ন ও অনুপ্রাণ বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Business Management",
+        "bn_name": "ব্যবসায় হিসাব বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Business Studies",
+        "bn_name": "ব্যবসায় শিক্ষা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Child Development and Family Relation",
+        "bn_name": "চাইল্ড ডেভেলপমেন্ট এন্ড ফ্যামিলি রিলেসন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Clothing & Textiles",
+        "bn_name": "ক্লথিং এন্ড টেক্সটাইল",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Commerce",
+        "bn_name": "বাণিজ্য",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Computer Technology",
+        "bn_name": "কম্পিউটার টেকনোলজি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Criminology and Police Science",
+        "bn_name": "ক্রিমিনোলজি এন্ড পুলিশ সাইন্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Criminology",
+        "bn_name": "ক্রিমিনোলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Culture",
+        "bn_name": "সংস্কৃত",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Doc.of Veterinary Medicine",
+        "bn_name": "ড. অব ভেটেরিনারী মেডিসিন",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Disaster Management",
+        "bn_name": "ডিসাস্টার ম্যানেজমেন্ট",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Electronics And Communication Engineering",
+        "bn_name": "ইলেকট্রনিক্স এন্ড কমিউনিকেশন ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": "ECE"
+    },
+    {
+        "name": "Entomology",
+        "bn_name": "এ্যান্টমলজী",
+        "category": null,
+        "description": "Entomology"
+    },
+    {
+        "name": "Finance & Banking",
+        "bn_name": "ফিন্যান্স এন্ড ব্যাংকিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Food & Neutrition",
+        "bn_name": "ফুড এন্ড নিউট্রিশান",
+        "category": null,
+        "description": "Food & Neutrition"
+    },
+    {
+        "name": "Food Engineering",
+        "bn_name": "ফুড ইঞ্জিনিয়ারিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "FLUID MECHANICS",
+        "bn_name": "ফ্লুইড ম্যাকানিক্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Geology and Mining",
+        "bn_name": "জিওলজী এন্ড মাইনিং",
+        "category": null,
+        "description": "Geology and Mining"
+    },
+    {
+        "name": "General",
+        "bn_name": "জেনারেল",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Humanities",
+        "bn_name": "মানবিক",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Human Resource Management ",
+        "bn_name": "হিউম্যান রিসোর্স ম্যানেজমেন্ট",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "International Business",
+        "bn_name": "আন্তর্জাতিক বানিজ্য",
+        "category": null,
+        "description": "IB"
+    },
+    {
+        "name": "Information Science ",
+        "bn_name": "তথ্য বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Irrigation and Water Management ",
+        "bn_name": "সেচ ও পানি ব্যাবস্থাপনা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Literature",
+        "bn_name": "সাহিত্য",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "L.L.M",
+        "bn_name": "এল,এল,এম",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "M.A",
+        "bn_name": "এম,এ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "MBA",
+        "bn_name": "এমবিএ",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Oceanography",
+        "bn_name": "মহাসাগরবিদ্যা",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Petrolium & Maining",
+        "bn_name": "পেট্রোলিয়াম এন্ড মাইনিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Pharmacology",
+        "bn_name": "ফার্মাকোলজি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Phsiotherapy",
+        "bn_name": "ফিজিওথেরাফী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Political Philosophy",
+        "bn_name": "পলিটিক্যাল ফিলোসফি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Refregeration & Air Conditioning",
+        "bn_name": "রেফ্রিজারেশন এন্ড এয়ার কন্ডিশনিং",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Sustainable Agriculture and Food Security(Professional)",
+        "bn_name": "সাসটেইনেবল এগ্রিকালচার এন্ড ফুড সিকিউরিটি(প্রফেশনাল)",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Science",
+        "bn_name": "বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Secretarial Science",
+        "bn_name": "সেক্রেটারিয়াল সাইন্স",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Strategic and International Management",
+        "bn_name": "স্ট্রাটেজিক এন্ড ইন্টারন্যাশনাল ম্যানেজমেন্ট",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Social Science",
+        "bn_name": "সমাজ বিজ্ঞান",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Sociology and Anthropology",
+        "bn_name": "সোস্যোলজী এন্ড এ্যান্ট্রোপোলজী",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Theriogenology",
+        "bn_name": "থেরিওজেনোলোজি",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Tourism & Hospitality Managment",
+        "bn_name": "ট্যুরিজম এন্ড হস্পিটালিটি ম্যানেজমেন্ট",
+        "category": null,
+        "description": "THM"
+    },
+    {
+        "name": "Victimology and Restorative Justice",
+        "bn_name": "ভিক্টিমলোজি এন্ড রেস্তোরাটিভ জাস্টিস",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Water Science",
+        "bn_name": "পানিবিদ্যা",
+        "category": null,
+        "description": null
+    }
+]

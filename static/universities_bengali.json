@@ -1,0 +1,1298 @@
+[
+    {
+        "name": "Bangabandhu Sheikh Mujibur Rahman Science & Technology University",
+        "bn_name": "বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়, গোপালগঞ্জ",
+        "rank": 51,
+        "code": "525",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "America Bangladesh University",
+        "bn_name": "আমেরিকা বাংলাদেশ ইউনিভার্সিটি",
+        "rank": 33,
+        "code": "ABU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Atish Dipankar University of Science & Technology",
+        "bn_name": "আতিশ দিপংকর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 37,
+        "code": "ADUST",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "American International University Bangladesh",
+        "bn_name": "আমেরিকান ইন্টারন্যাশনাল ইউনিভার্সিটি বাংলাদেশ",
+        "rank": 34,
+        "code": "AIUB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Anwer Khan Modern Medical College, Dhaka",
+        "bn_name": "আনোয়ার খান মডার্ন মেডিকেল কলেজ,ঢাকা",
+        "rank": 114,
+        "code": "AKMMCD",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "ASA University Bangladesh",
+        "bn_name": "এ এস এ ইউনিভার্সিটি বাংলাদেশ",
+        "rank": 35,
+        "code": "ASAUB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Asian University of Bangladesh",
+        "bn_name": "এশিয়ান ইউনিভার্সিটি অব বাংলাদেশ",
+        "rank": 36,
+        "code": "AUB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Ahsanullah University of Science and Technology",
+        "bn_name": "আহসানউল্লাহ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 32,
+        "code": "AUST",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Asian University for Women",
+        "bn_name": "এশিয়ান ইউনিভার্সিটি ফর ইউম্যান",
+        "rank": 86,
+        "code": "AUW",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Ad-din Womens Medical College, Dhaka",
+        "bn_name": "আদ-দীন ইউম্যান মেডিক্যাল কলেজ,ঢাকা",
+        "rank": 113,
+        "code": "AWMCD",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangladesh Agricultural University",
+        "bn_name": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়,ময়মনসিংহ",
+        "rank": 3,
+        "code": "BAUM",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Begum Rokeya University, Rangpur",
+        "bn_name": "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+        "rank": null,
+        "code": "BEGUM",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "BGC Trust Medical College, Chittagong",
+        "bn_name": "বিজিসি ট্রাস্ট মেডিক্যাল কলেজ,চট্টগ্রাম",
+        "rank": 117,
+        "code": "BGCTMCC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "BGC Trust University Bangladesh, Chittagong",
+        "bn_name": "বিজিসি ট্রাস্ট বিশ্ববিদ্যালয় বাংলাদেশ,চট্টগ্রাম",
+        "rank": 41,
+        "code": "BGCTUBC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangladesh Islami University",
+        "bn_name": "বাংলাদেশ ইসলামী বিশ্ববিদ্যালয়",
+        "rank": 38,
+        "code": "BIU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangladesh Medical College",
+        "bn_name": "বাংলাদেশ মেডিক্যাল কলেজ",
+        "rank": 115,
+        "code": "BMC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangladesh Open University",
+        "bn_name": "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয়",
+        "rank": 4,
+        "code": "BOU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "BRAC University",
+        "bn_name": "ব্র্যাক বিশ্ববিদ্যালয়",
+        "rank": 42,
+        "code": "BRACU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangabandhu Sheikh Mujib Medical University",
+        "bn_name": "বঙ্গবন্ধু শেখ মুজিব মেডিক্যাল বিশ্ববিদ্যালয়",
+        "rank": 1,
+        "code": "BSMMU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangabandhu Sheikh Mujibur Rahman Agricultural University",
+        "bn_name": "বঙ্গবন্ধু শেখ মুজিবুর রহমান কৃষি বিশ্ববিদ্যালয়",
+        "rank": 2,
+        "code": "BSMRAU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangladesh University",
+        "bn_name": "বাংলাদেশ ইউনিভার্সিটি",
+        "rank": 39,
+        "code": "BU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangladesh University of Business & Technology (BUBT)",
+        "bn_name": "বাংলাদেশ ইউনিভার্সিটি অব বিজনেস এন্ড টেকনোলজি(বি ইউ বি টি)",
+        "rank": 40,
+        "code": "BUBTBUBT",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangladesh University of Engineering & Technology",
+        "bn_name": "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 5,
+        "code": "BUET",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Bangladesh University of Professionals",
+        "bn_name": "বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনাল",
+        "rank": 6,
+        "code": "BUP",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Cox's Bazar Medical College",
+        "bn_name": "কক্সবাজার মেডিক্যাল কলেজ",
+        "rank": 105,
+        "code": "CBMC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Community Based Medical College (cbmc), Mymensingh",
+        "bn_name": "কমিউনিটি বেসড্‌ মেডিক্যাল কলেজ(সি বি এম সি),ময়মনসিংহ",
+        "rank": 120,
+        "code": "CBMCM",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Chittagong Medical College",
+        "bn_name": "চট্টগ্রাম মেডিক্যাল কলেজ",
+        "rank": 92,
+        "code": "CMC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Central Medical College, Comilla",
+        "bn_name": "সেন্ট্রাল মেডিক্যাল কলেজ,কুমিল্লা",
+        "rank": 118,
+        "code": "CMCC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Community Medical College, Dhaka",
+        "bn_name": "কমিউনিটি মেডিক্যাল কলেজ,ঢাকা",
+        "rank": 121,
+        "code": "CMCD",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Comilla Medical College",
+        "bn_name": "কুমিল্লা মেডিক্যাল কলেজ",
+        "rank": 97,
+        "code": "CMMC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Chottagram Ma-O-Shishu Hospital Medical College",
+        "bn_name": "চট্টগ্রাম মা-ও-শিশু হাস্পাতাল মেডিক্যাল কলেজ",
+        "rank": 119,
+        "code": "CMOSHMC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "City University",
+        "bn_name": "সিটি ইউনিভার্সিটি",
+        "rank": 44,
+        "code": "CTU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Comilla University",
+        "bn_name": "কুমিল্লা বিশ্ববিদ্যালয়",
+        "rank": 9,
+        "code": "CU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Chittagong University of Engineering & Technology",
+        "bn_name": "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 7,
+        "code": "CUET",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Chittagong Veterinary and Animal Sciences University",
+        "bn_name": "চট্টগ্রাম ভেটেরিনারী এন্ড এনিম্যাল সাইন্স ইউনিভার্সিটি",
+        "rank": 8,
+        "code": "CVASU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Central Women's University",
+        "bn_name": "সেন্ট্রাল ইউম্যান ইউনিভার্সিটি",
+        "rank": 43,
+        "code": "CWU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Dhaka International University",
+        "bn_name": "ঢাকা ইন্টারন্যাশনাল ইউনিভার্সিটি",
+        "rank": 47,
+        "code": "DIIU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Daffodil International University",
+        "bn_name": "ড্যাফোডিল ইন্টারন্যাশনাল ইউনিভার্সিটি",
+        "rank": 45,
+        "code": "DIU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Dhaka Medical College",
+        "bn_name": "ঢাকা মেডিক্যাল কলেজ",
+        "rank": 89,
+        "code": "DMC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Delta Medical College, Dhaka",
+        "bn_name": "ডেল্টা মেডিক্যাল কলেজ,ঢাকা",
+        "rank": 122,
+        "code": "DMCD",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Dinajpur Medical College",
+        "bn_name": "দিনাজপুর মেডিক্যাল কলেজ",
+        "rank": 100,
+        "code": "DNMC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Dhaka National Medical College",
+        "bn_name": "ঢাকা ন্যাশনাল মেডিক্যাল কলেজ",
+        "rank": 123,
+        "code": "DNRMC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Darul Ihsan University",
+        "bn_name": "দারুল ইহসান ইউনিভার্সিটি",
+        "rank": 46,
+        "code": "DRIU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Durra Samad Rahman Red Crescent Women's Medical College, Sylhet",
+        "bn_name": "দুর‍্যা সামাদ রহমান রেড ক্রিসেন্ট ইউম্যান্‌স মেডিক্যাল কলেজ,সিলেট",
+        "rank": 124,
+        "code": "DSRRCWMCS",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "University of Dhaka",
+        "bn_name": "ঢাকা বিশ্ববিদ্যালয়",
+        "rank": 10,
+        "code": "DU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Khulna University of Engineering & Technology",
+        "bn_name": "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 11,
+        "code": "KUET",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "East Delta University , Chittagong",
+        "bn_name": "ইস্ট ডেল্টা ইউনিভার্সিটি,চট্টগ্রাম",
+        "rank": 48,
+        "code": "EDUC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Eastern Medical College, Comilla",
+        "bn_name": "ইস্টার্ন মেডিক্যাল কলেজ,কুমিল্লা",
+        "rank": 125,
+        "code": "EMCC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Enam Medical College, Savar, Dhaka",
+        "bn_name": "এনাম মেডিক্যাল কলেজ,সাভার,ঢাকা",
+        "rank": 126,
+        "code": "EMCSD",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Eastern University",
+        "bn_name": "ইস্টার্ন ইউনিভার্সিটি",
+        "rank": 50,
+        "code": "EU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "East West University",
+        "bn_name": "ইস্ট ওয়েস্ট ইউনিভার্সিটি",
+        "rank": 49,
+        "code": "EWU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Faridpur Medical College",
+        "bn_name": "ফরিদপুর মেডিক্যাল কলেজ",
+        "rank": 101,
+        "code": "FMC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Feni Medical College,Feni",
+        "bn_name": "ফেনী মেডিক্যাল কলেজ,ফেনী",
+        "rank": 111,
+        "code": "FMCF",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Gono Bishwabidyalay",
+        "bn_name": "গণ বিশ্ববিদ্যালয়",
+        "rank": 51,
+        "code": "GB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Gono Bishwabidyalay, Savar, Dhaka",
+        "bn_name": "গণ বিশ্ববিদ্যালয়,সাভার,ঢাকা",
+        "rank": 112,
+        "code": "GBSD",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Green Life Medical College,Dhaka",
+        "bn_name": "গ্রীন লাইফ মেডিক্যাল কলেজ,ঢাকা",
+        "rank": 128,
+        "code": "GLMCD",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Green University of Bangladesh",
+        "bn_name": "গ্রীন ইউনিভার্সিটি অব বাংলাদেশ",
+        "rank": 52,
+        "code": "GUB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Holy Family Red Crescent Medical College, Dhaka",
+        "bn_name": "Holy Family Red Crescent Medical College, Dhaka",
+        "rank": 129,
+        "code": "HFRCMCD",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Hajee Mohammad Danesh Science & Technology University",
+        "bn_name": "হাজী মোহাম্মাদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 12,
+        "code": "HMDSTU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "IBAIS University",
+        "bn_name": "আইবিএয়াইএস ইউনিভার্সিটি",
+        "rank": 53,
+        "code": "IBAISU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Islami Bank Medical College, Rajshahi",
+        "bn_name": "Islami Bank Medical College, Rajshahi",
+        "rank": 133,
+        "code": "IBMCR",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "International Islamic University, Chittagong",
+        "bn_name": "ইন্টারন্যাশন  ইসলামী ইউনিভার্সিটি,চট্টগ্রাম",
+        "rank": 55,
+        "code": "IIUC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Ibrahim Medical College, Dhaka",
+        "bn_name": "Ibrahim Medical College, Dhaka",
+        "rank": 130,
+        "code": "IMCD",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "International Medical College, Gazipur",
+        "bn_name": "International Medical College, Gazipur",
+        "rank": 132,
+        "code": "IMCG",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Ibn Sina Medical College, Dhaka",
+        "bn_name": "Ibn Sina Medical College, Dhaka",
+        "rank": 131,
+        "code": "ISMCD",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Independent University, Bangladesh",
+        "bn_name": "ইনডিপেনডেন্ট ইউনিভার্সিটি ,বাংলাদেশ",
+        "rank": 54,
+        "code": "IUB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "International University of Business Agriculture & Technology",
+        "bn_name": "International University of Business Agriculture & Technology",
+        "rank": 56,
+        "code": "IUBAT",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Islamic University, Bangladesh",
+        "bn_name": "ইসলামী বিশ্ববি্দ্যালয়,কুষ্টিয়া",
+        "rank": 13,
+        "code": "IUK",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Islamic University of Technology",
+        "bn_name": "ইসলামী ইউনিভার্সিটি অব টেকনোলজী",
+        "rank": 87,
+        "code": "IUT",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Jahangirnagar University",
+        "bn_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+        "rank": 15,
+        "code": "JHU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Jahurul Islam Medical College, Kishoregonj",
+        "bn_name": "Jahurul Islam Medical College, Kishoregonj",
+        "rank": 134,
+        "code": "JIMCK",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Jatiya Kabi Kazi Nazrul Islam University",
+        "bn_name": "জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়",
+        "rank": 16,
+        "code": "JKKNIU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Jessore Medical College",
+        "bn_name": "Jessore Medical College",
+        "rank": 106,
+        "code": "JMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Jalalabad Rageb-Rabeya Medical College,Sylhet",
+        "bn_name": "Jalalabad Rageb-Rabeya Medical College,Sylhet",
+        "rank": 116,
+        "code": "JRRMCS",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Jalalabad Ragib-Rabeya Medical College Sylhet",
+        "bn_name": "Jalalabad Ragib-Rabeya Medical College Sylhet",
+        "rank": 135,
+        "code": "JRRRMCS",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Jashore University of Science & Technology",
+        "bn_name": "যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 17,
+        "code": "JSTU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Jagannath University",
+        "bn_name": "জগন্নাথ বিশ্ববিদ্যালয়",
+        "rank": 14,
+        "code": "JU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Khulna Medical College",
+        "bn_name": "Khulna Medical College",
+        "rank": 98,
+        "code": "KMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Kumudini Medical College, Tangail",
+        "bn_name": "Kumudini Medical College, Tangail",
+        "rank": 137,
+        "code": "KMCT",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Khulna University",
+        "bn_name": "খুলনা বিশ্ববিদ্যালয়",
+        "rank": 18,
+        "code": "KU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Khulna University of Engineering & Technology",
+        "bn_name": "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 19,
+        "code": "KUET",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Kushtia Medical College",
+        "bn_name": "Kushtia Medical College",
+        "rank": 108,
+        "code": "KUMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Khawja Yunus Ali Medical College, Sirajganj",
+        "bn_name": "Khawja Yunus Ali Medical College, Sirajganj",
+        "rank": 136,
+        "code": "KYAMCS",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Labaid Medical College",
+        "bn_name": "Labaid Medical College",
+        "rank": 138,
+        "code": "LMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Leading University, Sylhet",
+        "bn_name": "Leading University, Sylhet",
+        "rank": 57,
+        "code": "LUS",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "MAG Osmani Medical College",
+        "bn_name": "MAG Osmani Medical College",
+        "rank": 94,
+        "code": "MAGOMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Maulana Bhasani Medical College",
+        "bn_name": "Maulana Bhasani Medical College",
+        "rank": 139,
+        "code": "MBMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Mawlana Bhashani Science & Technology University",
+        "bn_name": "মৌলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 20,
+        "code": "MBSTU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Medical College for Women and Hospital, Dhaka",
+        "bn_name": "Medical College for Women and Hospital, Dhaka",
+        "rank": 140,
+        "code": "MCWHD",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Military Institute of Science and Technology (MIST)",
+        "bn_name": "মিলিটারী ইন্সটিটিউট অব সাইন্স এন্ড টেকনোলজী",
+        "rank": 158,
+        "code": "MISTMIST",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Manarat International University",
+        "bn_name": "Manarat International University",
+        "rank": 58,
+        "code": "MIU",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Mymensingh Medical College",
+        "bn_name": "Mymensingh Medical College",
+        "rank": 91,
+        "code": "MMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Metropolitan University, Sylhet",
+        "bn_name": "Metropolitan University, Sylhet",
+        "rank": 59,
+        "code": "MUS",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "North Bengal Medical College, Sirajganj",
+        "bn_name": "North Bengal Medical College, Sirajganj",
+        "rank": 142,
+        "code": "NBMCS",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "North East Medical College, Sylhet",
+        "bn_name": "North East Medical College, Sylhet",
+        "rank": 143,
+        "code": "NEMCS",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Northern International Medical College, Dhaka",
+        "bn_name": "Northern International Medical College, Dhaka",
+        "rank": 144,
+        "code": "NIMCD",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Noakhali Medical College",
+        "bn_name": "Noakhali Medical College",
+        "rank": 104,
+        "code": "NMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Nightingale Medical College, Dhaka",
+        "bn_name": "Nightingale Medical College, Dhaka",
+        "rank": 141,
+        "code": "NMCD",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Northern Private Medical College, Rangpur",
+        "bn_name": "Northern Private Medical College, Rangpur",
+        "rank": 145,
+        "code": "NPMCR",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Noakhali Science & Technology University",
+        "bn_name": "নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 22,
+        "code": "NSTU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "North South University",
+        "bn_name": "নর্থ সাউথ ইউনিভার্সিটি",
+        "rank": 60,
+        "code": "NSU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "National University",
+        "bn_name": "জাতীয় বিশ্ববিদ্যালয়",
+        "rank": 21,
+        "code": "NU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Northern University Bangladesh",
+        "bn_name": "নর্দার্ন ইউনিভার্সিটি বাংলাদেশ",
+        "rank": 61,
+        "code": "NUB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Others",
+        "bn_name": "Others",
+        "rank": 159,
+        "code": "O",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Primeasia University",
+        "bn_name": "প্রাইমেশিয়া ইউনিভার্সিটি",
+        "rank": 65,
+        "code": "PASU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Pabna Medical College",
+        "bn_name": "Pabna Medical College",
+        "rank": 103,
+        "code": "PMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Popular Medical College & Hospital, Dhaka",
+        "bn_name": "Popular Medical College & Hospital, Dhaka",
+        "rank": 146,
+        "code": "PMCHD",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Prime Medical College, Rangpur",
+        "bn_name": "Prime Medical College, Rangpur",
+        "rank": 147,
+        "code": "PMCR",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Prime University",
+        "bn_name": "প্রাইম ইউনিভার্সিটি",
+        "rank": 64,
+        "code": "PRIU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Patuakhali Science And Technology University",
+        "bn_name": "পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 24,
+        "code": "PSATU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Presidency University",
+        "bn_name": "Presidency University",
+        "rank": 63,
+        "code": "PU",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Premier University, Chittagong",
+        "bn_name": "প্রিমিয়ার উনিভেরসিত্য,চট্টগ্রাম",
+        "rank": 62,
+        "code": "PUC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Pabna University of Science and Technology",
+        "bn_name": "পাবনা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 23,
+        "code": "PUST",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Queens University",
+        "bn_name": "Queens University",
+        "rank": 66,
+        "code": "QU",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Rangpur Community Hospital Medical College",
+        "bn_name": "Rangpur Community Hospital Medical College",
+        "rank": 148,
+        "code": "RCHMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Rajshahi Medical College",
+        "bn_name": "Rajshahi Medical College",
+        "rank": 93,
+        "code": "RMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Rangpur Medical College",
+        "bn_name": "Rangpur Medical College",
+        "rank": 96,
+        "code": "RNMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Rangpur University",
+        "bn_name": "রংপুর বিশ্ববিদ্যালয়",
+        "rank": 27,
+        "code": "RNU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "University of Rajshahi",
+        "bn_name": "রাজশাহী বিশ্ববিদ্যালয়",
+        "rank": 25,
+        "code": "RU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Royal University of Dhaka",
+        "bn_name": "Royal University of Dhaka",
+        "rank": 67,
+        "code": "RUD",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Rajshahi University of Engineering & Technology",
+        "bn_name": "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 26,
+        "code": "RUET",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "South Asian University",
+        "bn_name": "সাউথ এশিয়ান ইউনিভার্সিটি",
+        "rank": 88,
+        "code": "SASU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Sylhet Agricultural University",
+        "bn_name": "সিলেট কৃষি বিশ্ববিদ্যালয়",
+        "rank": 30,
+        "code": "SAU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Sher-e-Bangla Agricultural University",
+        "bn_name": "শেরে-এ-বাংলা কৃষি বিশ্ববিদ্যালয়",
+        "rank": 29,
+        "code": "SBAU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Sher-E-Bangla Medical College",
+        "bn_name": "Sher-E-Bangla Medical College",
+        "rank": 95,
+        "code": "SEBMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Sylhet International University, Sylhet",
+        "bn_name": "সিলেট ইন্টারন্যাশনাল ইউনিভার্সিটি ,সিলেট",
+        "rank": 73,
+        "code": "SIUS",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Satkhira Medical College",
+        "bn_name": "Satkhira Medical College",
+        "rank": 109,
+        "code": "SMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Southern Medical College, Chittagong",
+        "bn_name": "Southern Medical College, Chittagong",
+        "rank": 153,
+        "code": "SMCC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Shahabuddin Medical College, Dhaka",
+        "bn_name": "Shahabuddin Medical College, Dhaka",
+        "rank": 151,
+        "code": "SMCD",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Sahabuddin Medical College and Hospital",
+        "bn_name": "Sahabuddin Medical College and Hospital",
+        "rank": 149,
+        "code": "SMCH",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Shanto Mariam University of Creative Technology",
+        "bn_name": "Shanto Mariam University of Creative Technology",
+        "rank": 68,
+        "code": "SMUCT",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Shaheed Nazrul Islam Medical College",
+        "bn_name": "Shaheed Nazrul Islam Medical College",
+        "rank": 107,
+        "code": "SNIMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "South East University",
+        "bn_name": "সাউথ ইষ্ট ইউনিভার্সিটি",
+        "rank": null,
+        "code": "South East University",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Sheikh Sayera Khatun Medical College, Gopalganj",
+        "bn_name": "Sheikh Sayera Khatun Medical College, Gopalganj",
+        "rank": 110,
+        "code": "SSKMCG",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Sir Salimullah Medical College",
+        "bn_name": "Sir Salimullah Medical College",
+        "rank": 90,
+        "code": "SSMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Shaheed Suhrawardy Medical College",
+        "bn_name": "Shaheed Suhrawardy Medical College",
+        "rank": 102,
+        "code": "SSRMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Southeast University",
+        "bn_name": "সাউথ ইষ্ট ইউনিভার্সিটি",
+        "rank": 69,
+        "code": "SU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Stamford University, Bangladesh",
+        "bn_name": "এস্টামফোর্ড ইউনিভার্সিটি ,বাংলাদেশ",
+        "rank": 71,
+        "code": "SUB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Southern University of Bangladesh , Chittagong",
+        "bn_name": "সাউদার্ন ইউনিভার্সিটি অব বাংলাদেশ,চট্টগ্রাম",
+        "rank": 70,
+        "code": "SUBC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "State University Of Bangladesh",
+        "bn_name": "এস্টেট ইউনিভার্সিটি অব বাংলাদেশ",
+        "rank": 72,
+        "code": "SUOB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Shahjalal University of Science & Technology",
+        "bn_name": "শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+        "rank": 28,
+        "code": "SUST",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Samaj Vittik Medical College, Mirzanagar, Savar",
+        "bn_name": "Samaj Vittik Medical College, Mirzanagar, Savar",
+        "rank": 150,
+        "code": "SVMCMS",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Sylhet Women`s Medical College, Sylhet",
+        "bn_name": "Sylhet Women`s Medical College, Sylhet",
+        "rank": 127,
+        "code": "SWMCS",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Shaheed Ziaur Rahman Medical College",
+        "bn_name": "Shaheed Ziaur Rahman Medical College",
+        "rank": 99,
+        "code": "SZRMC",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "Tairunnessa Memorial Medical College, Gazipur",
+        "bn_name": "Tairunnessa Memorial Medical College, Gazipur",
+        "rank": 154,
+        "code": "TMMCG",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "TMSS Medical College,Bogra",
+        "bn_name": "TMSS Medical College,Bogra",
+        "rank": 155,
+        "code": "TMSSMCB",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "The Millenium University",
+        "bn_name": "The Millenium University",
+        "rank": 74,
+        "code": "TMU",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "The Peoples University of Bangladesh",
+        "bn_name": "দ্যা পিওপল্‌স ইউনিভার্সিটি অব বাংলাদেশ",
+        "rank": 75,
+        "code": "TPUB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "The University of Asia Pacific",
+        "bn_name": "দ্যা ইউনিভার্সিটি অব এশিয়া পেসিফিক",
+        "rank": 76,
+        "code": "TUAP",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Uttara Adhunik Medical College,Dhaka",
+        "bn_name": "Uttara Adhunik Medical College,Dhaka",
+        "rank": 157,
+        "code": "UAMCD",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "University of Chittagong",
+        "bn_name": "চট্টগ্রাম বিশ্ববিদ্যালয়",
+        "rank": 31,
+        "code": "UC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "University of Development Alternative",
+        "bn_name": "University of Development Alternative",
+        "rank": 78,
+        "code": "UDA",
+        "category": null,
+        "description": ""
+    },
+    {
+        "name": "University of Information Technology & Sciences",
+        "bn_name": "ইউনিভার্সিটি অব ইনফর্মেশন টেকনোলজী এন্ড সাইন্স",
+        "rank": 79,
+        "code": "UITS",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "United International University",
+        "bn_name": "ইউনাইটেড ইন্টারন্যাশনাল ইউনিভার্সিটি",
+        "rank": 77,
+        "code": "UIU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "University of Liberal Arts Bangladesh",
+        "bn_name": "ইউনিভার্সিটি অব লিবেরাল আর্ট্‌স বাংলাদেশ",
+        "rank": 80,
+        "code": "ULAB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "University Of Science and Technology Chittagong. IAMS",
+        "bn_name": "ইউনিভার্সিটি অব সাইন্স এন্ড টেকনোলজী চট্টগ্রাম.আইএস",
+        "rank": 156,
+        "code": "UOSTCIAMS",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "University of South Asia",
+        "bn_name": "ইউনিভার্সিটি অব সাউথ এশিয়া",
+        "rank": 82,
+        "code": "USA",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "University of Science & Technology, Chittagong",
+        "bn_name": "ইউনিভার্সিটি অব সাইন্স এন্ড টেকনোলজী,চট্টগ্রাম",
+        "rank": 81,
+        "code": "USTC",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Uttara University",
+        "bn_name": "উত্তরা ইউনিভার্সিটি",
+        "rank": 83,
+        "code": "UU",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Victoria University of Bangladesh",
+        "bn_name": "ভিক্টোরিয়া ইউনিভার্সিটি অব বাংলাদেশ",
+        "rank": 84,
+        "code": "VUB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "World University of Bangladesh",
+        "bn_name": "ওয়ার্ল্ড ইউনিভার্সিটি অব বাংলাদেশ",
+        "rank": 85,
+        "code": "WUB",
+        "category": null,
+        "description": null
+    },
+    {
+        "name": "Z. H. Sikder Women`s Medical College",
+        "bn_name": "Z. H. Sikder Women`s Medical College",
+        "rank": 152,
+        "code": "ZHSWMC",
+        "category": null,
+        "description": ""
+    }
+]

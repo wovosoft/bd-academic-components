@@ -1,0 +1,2432 @@
+[
+    {
+        "HrConfLookupValue": {
+            "isDefault": 0,
+            "updatedBy": "Roky_Admin",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/525/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj",
+            "nameBn": "বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়, গোপালগঞ্জ",
+            "rank": 51,
+            "description": null,
+            "id": "525",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/525/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "525"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/ABU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "America Bangladesh University",
+            "nameBn": "আমেরিকা বাংলাদেশ ইউনিভার্সিটি",
+            "rank": 33,
+            "description": null,
+            "id": "ABU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/ABU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "ABU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/ADUST/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Atish Dipankar University of Science & Technology",
+            "nameBn": "আতিশ দিপংকর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 37,
+            "description": null,
+            "id": "ADUST",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/ADUST/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "ADUST"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/AIUB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "American International University Bangladesh",
+            "nameBn": "আমেরিকান ইন্টারন্যাশনাল ইউনিভার্সিটি বাংলাদেশ",
+            "rank": 34,
+            "description": null,
+            "id": "AIUB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/AIUB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "AIUB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/AKMMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Anwer Khan Modern Medical College, Dhaka",
+            "nameBn": "আনোয়ার খান মডার্ন মেডিকেল কলেজ,ঢাকা",
+            "rank": 114,
+            "description": null,
+            "id": "AKMMCD",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/AKMMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "AKMMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/ASAUB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "ASA University Bangladesh",
+            "nameBn": "এ এস এ ইউনিভার্সিটি বাংলাদেশ",
+            "rank": 35,
+            "description": null,
+            "id": "ASAUB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/ASAUB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "ASAUB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/AUB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Asian University of Bangladesh",
+            "nameBn": "এশিয়ান ইউনিভার্সিটি অব বাংলাদেশ",
+            "rank": 36,
+            "description": null,
+            "id": "AUB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/AUB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "AUB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/AUST/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Ahsanullah University of Science and Technology",
+            "nameBn": "আহসানউল্লাহ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 32,
+            "description": null,
+            "id": "AUST",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/AUST/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "AUST"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/AUW/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Asian University for Women",
+            "nameBn": "এশিয়ান ইউনিভার্সিটি ফর ইউম্যান",
+            "rank": 86,
+            "description": null,
+            "id": "AUW",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/AUW/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "AUW"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/AWMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Ad-din Womens Medical College, Dhaka",
+            "nameBn": "আদ-দীন ইউম্যান মেডিক্যাল কলেজ,ঢাকা",
+            "rank": 113,
+            "description": null,
+            "id": "AWMCD",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/AWMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "AWMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BAUM/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangladesh Agricultural University,Mymensingh",
+            "nameBn": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়,ময়মনসিংহ",
+            "rank": 3,
+            "description": null,
+            "id": "BAUM",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BAUM/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BAUM"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": 0,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BEGUM/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Begum Rokeya University",
+            "nameBn": "বেগম রোকেয়া বিশ্ববিদ্যালয়",
+            "rank": null,
+            "description": null,
+            "id": "BEGUM",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BEGUM/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BEGUM"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BGCTMCC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "BGC Trust Medical College, Chittagong",
+            "nameBn": "বিজিসি ট্রাস্ট মেডিক্যাল কলেজ,চট্টগ্রাম",
+            "rank": 117,
+            "description": null,
+            "id": "BGCTMCC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BGCTMCC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BGCTMCC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BGCTUBC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "BGC Trust University Bangladesh, Chittagong",
+            "nameBn": "বিজিসি ট্রাস্ট বিশ্ববিদ্যালয় বাংলাদেশ,চট্টগ্রাম",
+            "rank": 41,
+            "description": null,
+            "id": "BGCTUBC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BGCTUBC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BGCTUBC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BIU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangladesh Islami University",
+            "nameBn": "বাংলাদেশ ইসলামী বিশ্ববিদ্যালয়",
+            "rank": 38,
+            "description": null,
+            "id": "BIU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BIU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BIU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangladesh Medical College",
+            "nameBn": "বাংলাদেশ মেডিক্যাল কলেজ",
+            "rank": 115,
+            "description": null,
+            "id": "BMC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BOU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangladesh Open University",
+            "nameBn": "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয়",
+            "rank": 4,
+            "description": null,
+            "id": "BOU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BOU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BOU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BRACU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "BRAC University",
+            "nameBn": "ব্র্যাক বিশ্ববিদ্যালয়",
+            "rank": 42,
+            "description": null,
+            "id": "BRACU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BRACU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BRACU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BSMMU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangabandhu Sheikh Mujib Medical University",
+            "nameBn": "বঙ্গবন্ধু শেখ মুজিব মেডিক্যাল বিশ্ববিদ্যালয়",
+            "rank": 1,
+            "description": null,
+            "id": "BSMMU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BSMMU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BSMMU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BSMRAU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangabandhu Sheikh Mujibur Rahman Agricultural University",
+            "nameBn": "বঙ্গবন্ধু শেখ মুজিবুর রহমান কৃষি বিশ্ববিদ্যালয়",
+            "rank": 2,
+            "description": null,
+            "id": "BSMRAU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BSMRAU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BSMRAU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangladesh University",
+            "nameBn": "বাংলাদেশ ইউনিভার্সিটি",
+            "rank": 39,
+            "description": null,
+            "id": "BU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BUBTBUBT/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangladesh University of Business & Technology (BUBT)",
+            "nameBn": "বাংলাদেশ ইউনিভার্সিটি অব বিজনেস এন্ড টেকনোলজি(বি ইউ বি টি)",
+            "rank": 40,
+            "description": null,
+            "id": "BUBTBUBT",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BUBTBUBT/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BUBTBUBT"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BUET/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangladesh University of Engineering & Technology",
+            "nameBn": "বাংলাদেশ প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 5,
+            "description": null,
+            "id": "BUET",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BUET/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BUET"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/BUP/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Bangladesh University of Professionals",
+            "nameBn": "বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনাল",
+            "rank": 6,
+            "description": null,
+            "id": "BUP",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/BUP/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "BUP"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CBMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Cox's Bazar Medical College",
+            "nameBn": "কক্সবাজার মেডিক্যাল কলেজ",
+            "rank": 105,
+            "description": null,
+            "id": "CBMC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CBMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CBMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CBMCM/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Community Based Medical College (cbmc), Mymensingh",
+            "nameBn": "কমিউনিটি বেসড্‌ মেডিক্যাল কলেজ(সি বি এম সি),ময়মনসিংহ",
+            "rank": 120,
+            "description": null,
+            "id": "CBMCM",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CBMCM/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CBMCM"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Chittagong Medical College",
+            "nameBn": "চট্টগ্রাম মেডিক্যাল কলেজ",
+            "rank": 92,
+            "description": null,
+            "id": "CMC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CMCC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Central Medical College, Comilla",
+            "nameBn": "সেন্ট্রাল মেডিক্যাল কলেজ,কুমিল্লা",
+            "rank": 118,
+            "description": null,
+            "id": "CMCC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CMCC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CMCC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Community Medical College, Dhaka",
+            "nameBn": "কমিউনিটি মেডিক্যাল কলেজ,ঢাকা",
+            "rank": 121,
+            "description": null,
+            "id": "CMCD",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CMMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Comilla Medical College",
+            "nameBn": "কুমিল্লা মেডিক্যাল কলেজ",
+            "rank": 97,
+            "description": null,
+            "id": "CMMC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CMMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CMMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CMOSHMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Chottagram Ma-O-Shishu Hospital Medical College",
+            "nameBn": "চট্টগ্রাম মা-ও-শিশু হাস্পাতাল মেডিক্যাল কলেজ",
+            "rank": 119,
+            "description": null,
+            "id": "CMOSHMC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CMOSHMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CMOSHMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CTU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "City University",
+            "nameBn": "সিটি ইউনিভার্সিটি",
+            "rank": 44,
+            "description": null,
+            "id": "CTU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CTU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CTU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Comilla University",
+            "nameBn": "কুমিল্লা বিশ্ববিদ্যালয়",
+            "rank": 9,
+            "description": null,
+            "id": "CU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CUET/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Chittagong University of Engineering & Technology",
+            "nameBn": "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 7,
+            "description": null,
+            "id": "CUET",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CUET/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CUET"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CVASU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Chittagong Veterinary and Animal Sciences University",
+            "nameBn": "চট্টগ্রাম ভেটেরিনারী এন্ড এনিম্যাল সাইন্স ইউনিভার্সিটি",
+            "rank": 8,
+            "description": null,
+            "id": "CVASU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CVASU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CVASU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/CWU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Central Women's University",
+            "nameBn": "সেন্ট্রাল ইউম্যান ইউনিভার্সিটি",
+            "rank": 43,
+            "description": null,
+            "id": "CWU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/CWU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "CWU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/DIIU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Dhaka International University",
+            "nameBn": "ঢাকা ইন্টারন্যাশনাল ইউনিভার্সিটি",
+            "rank": 47,
+            "description": null,
+            "id": "DIIU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/DIIU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "DIIU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/DIU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Daffodil International University",
+            "nameBn": "ড্যাফোডিল ইন্টারন্যাশনাল ইউনিভার্সিটি",
+            "rank": 45,
+            "description": null,
+            "id": "DIU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/DIU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "DIU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/DMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Dhaka Medical College",
+            "nameBn": "ঢাকা মেডিক্যাল কলেজ",
+            "rank": 89,
+            "description": null,
+            "id": "DMC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/DMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "DMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/DMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Delta Medical College, Dhaka",
+            "nameBn": "ডেল্টা মেডিক্যাল কলেজ,ঢাকা",
+            "rank": 122,
+            "description": null,
+            "id": "DMCD",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/DMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "DMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/DNMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Dinajpur Medical College",
+            "nameBn": "দিনাজপুর মেডিক্যাল কলেজ",
+            "rank": 100,
+            "description": null,
+            "id": "DNMC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/DNMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "DNMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/DNRMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Dhaka National Medical College",
+            "nameBn": "ঢাকা ন্যাশনাল মেডিক্যাল কলেজ",
+            "rank": 123,
+            "description": null,
+            "id": "DNRMC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/DNRMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "DNRMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/DRIU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Darul Ihsan University",
+            "nameBn": "দারুল ইহসান ইউনিভার্সিটি",
+            "rank": 46,
+            "description": null,
+            "id": "DRIU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/DRIU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "DRIU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/DSRRCWMCS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Durra Samad Rahman Red Crescent Women's Medical College, Sylhet",
+            "nameBn": "দুর‍্যা সামাদ রহমান রেড ক্রিসেন্ট ইউম্যান্‌স মেডিক্যাল কলেজ,সিলেট",
+            "rank": 124,
+            "description": null,
+            "id": "DSRRCWMCS",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/DSRRCWMCS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "DSRRCWMCS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Roky_Admin",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/DU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "University of  Dhaka",
+            "nameBn": "ঢাকা বিশ্ববিদ্যালয়",
+            "rank": 10,
+            "description": null,
+            "id": "DU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/DU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "DU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/DUET/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Dhaka University of Engineering & Technology,Gazipur",
+            "nameBn": "ঢাকা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়,গাজিপুর",
+            "rank": 11,
+            "description": null,
+            "id": "DUET",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/DUET/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "DUET"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/EDUC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "East Delta University , Chittagong",
+            "nameBn": "ইস্ট ডেল্টা ইউনিভার্সিটি,চট্টগ্রাম",
+            "rank": 48,
+            "description": null,
+            "id": "EDUC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/EDUC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "EDUC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/EMCC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Eastern Medical College, Comilla",
+            "nameBn": "ইস্টার্ন মেডিক্যাল কলেজ,কুমিল্লা",
+            "rank": 125,
+            "description": null,
+            "id": "EMCC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/EMCC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "EMCC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/EMCSD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Enam Medical College, Savar, Dhaka",
+            "nameBn": "এনাম মেডিক্যাল কলেজ,সাভার,ঢাকা",
+            "rank": 126,
+            "description": null,
+            "id": "EMCSD",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/EMCSD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "EMCSD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/EU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Eastern University",
+            "nameBn": "ইস্টার্ন ইউনিভার্সিটি",
+            "rank": 50,
+            "description": null,
+            "id": "EU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/EU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "EU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/EWU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "East West University",
+            "nameBn": "ইস্ট ওয়েস্ট ইউনিভার্সিটি",
+            "rank": 49,
+            "description": null,
+            "id": "EWU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/EWU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "EWU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/FMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Faridpur Medical College",
+            "nameBn": "ফরিদপুর মেডিক্যাল কলেজ",
+            "rank": 101,
+            "description": null,
+            "id": "FMC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/FMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "FMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/FMCF/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Feni Medical College,Feni",
+            "nameBn": "ফেনী মেডিক্যাল কলেজ,ফেনী",
+            "rank": 111,
+            "description": null,
+            "id": "FMCF",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/FMCF/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "FMCF"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/GB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Gono Bishwabidyalay",
+            "nameBn": "গণ বিশ্ববিদ্যালয়",
+            "rank": 51,
+            "description": null,
+            "id": "GB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/GB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "GB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/GBSD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Gono Bishwabidyalay, Savar, Dhaka",
+            "nameBn": "গণ বিশ্ববিদ্যালয়,সাভার,ঢাকা",
+            "rank": 112,
+            "description": null,
+            "id": "GBSD",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/GBSD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "GBSD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/GLMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Green Life Medical College,Dhaka",
+            "nameBn": "গ্রীন লাইফ মেডিক্যাল কলেজ,ঢাকা",
+            "rank": 128,
+            "description": null,
+            "id": "GLMCD",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/GLMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "GLMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/GUB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Green University of Bangladesh",
+            "nameBn": "গ্রীন ইউনিভার্সিটি অব বাংলাদেশ",
+            "rank": 52,
+            "description": null,
+            "id": "GUB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/GUB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "GUB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/HFRCMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Holy Family Red Crescent Medical College, Dhaka",
+            "nameBn": "Holy Family Red Crescent Medical College, Dhaka",
+            "rank": 129,
+            "description": "",
+            "id": "HFRCMCD",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/HFRCMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "HFRCMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/HMDSTU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Hajee Mohammad Danesh Science & Technology University",
+            "nameBn": "হাজী মোহাম্মাদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 12,
+            "description": null,
+            "id": "HMDSTU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/HMDSTU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "HMDSTU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/IBAISU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "IBAIS University",
+            "nameBn": "আইবিএয়াইএস ইউনিভার্সিটি",
+            "rank": 53,
+            "description": null,
+            "id": "IBAISU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/IBAISU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "IBAISU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/IBMCR/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Islami Bank Medical College, Rajshahi",
+            "nameBn": "Islami Bank Medical College, Rajshahi",
+            "rank": 133,
+            "description": "",
+            "id": "IBMCR",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/IBMCR/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "IBMCR"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/IIUC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "International Islamic University, Chittagong",
+            "nameBn": "ইন্টারন্যাশন  ইসলামী ইউনিভার্সিটি,চট্টগ্রাম",
+            "rank": 55,
+            "description": null,
+            "id": "IIUC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/IIUC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "IIUC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/IMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Ibrahim Medical College, Dhaka",
+            "nameBn": "Ibrahim Medical College, Dhaka",
+            "rank": 130,
+            "description": "",
+            "id": "IMCD",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/IMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "IMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/IMCG/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "International Medical College, Gazipur",
+            "nameBn": "International Medical College, Gazipur",
+            "rank": 132,
+            "description": "",
+            "id": "IMCG",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/IMCG/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "IMCG"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/ISMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Ibn Sina Medical College, Dhaka",
+            "nameBn": "Ibn Sina Medical College, Dhaka",
+            "rank": 131,
+            "description": "",
+            "id": "ISMCD",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/ISMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "ISMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/IUB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Independent University, Bangladesh",
+            "nameBn": "ইনডিপেনডেন্ট ইউনিভার্সিটি ,বাংলাদেশ",
+            "rank": 54,
+            "description": null,
+            "id": "IUB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/IUB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "IUB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/IUBAT/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "International University of Business Agriculture & Technology",
+            "nameBn": "International University of Business Agriculture & Technology",
+            "rank": 56,
+            "description": "",
+            "id": "IUBAT",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/IUBAT/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "IUBAT"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/IUK/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Islamic University, Kushtia ",
+            "nameBn": "ইসলামী বিশ্ববি্দ্যালয়,কুষ্টিয়া",
+            "rank": 13,
+            "description": null,
+            "id": "IUK",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/IUK/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "IUK"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/IUT/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Islamic University of Technology",
+            "nameBn": "ইসলামী ইউনিভার্সিটি অব টেকনোলজী",
+            "rank": 87,
+            "description": null,
+            "id": "IUT",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/IUT/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "IUT"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/JHU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Jahangirnagar University",
+            "nameBn": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+            "rank": 15,
+            "description": null,
+            "id": "JHU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/JHU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "JHU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/JIMCK/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Jahurul Islam Medical College, Kishoregonj",
+            "nameBn": "Jahurul Islam Medical College, Kishoregonj",
+            "rank": 134,
+            "description": "",
+            "id": "JIMCK",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/JIMCK/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "JIMCK"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/JKKNIU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Jatiya Kabi Kazi Nazrul Islam University",
+            "nameBn": "জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়",
+            "rank": 16,
+            "description": null,
+            "id": "JKKNIU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/JKKNIU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "JKKNIU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/JMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Jessore Medical College",
+            "nameBn": "Jessore Medical College",
+            "rank": 106,
+            "description": "",
+            "id": "JMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/JMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "JMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/JRRMCS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Jalalabad Rageb-Rabeya Medical College,Sylhet",
+            "nameBn": "Jalalabad Rageb-Rabeya Medical College,Sylhet",
+            "rank": 116,
+            "description": "",
+            "id": "JRRMCS",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/JRRMCS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "JRRMCS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/JRRRMCS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Jalalabad Ragib-Rabeya Medical College Sylhet",
+            "nameBn": "Jalalabad Ragib-Rabeya Medical College Sylhet",
+            "rank": 135,
+            "description": "",
+            "id": "JRRRMCS",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/JRRRMCS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "JRRRMCS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Roky_Admin",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/JSTU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Jashore University of Science & Technology",
+            "nameBn": "যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 17,
+            "description": null,
+            "id": "JSTU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/JSTU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "JSTU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/JU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Jagannath University",
+            "nameBn": "জগন্নাথ বিশ্ববিদ্যালয়",
+            "rank": 14,
+            "description": null,
+            "id": "JU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/JU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "JU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/KMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Khulna Medical College",
+            "nameBn": "Khulna Medical College",
+            "rank": 98,
+            "description": "",
+            "id": "KMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/KMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "KMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/KMCT/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Kumudini Medical College, Tangail",
+            "nameBn": "Kumudini Medical College, Tangail",
+            "rank": 137,
+            "description": "",
+            "id": "KMCT",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/KMCT/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "KMCT"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/KU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Khulna University",
+            "nameBn": "খুলনা বিশ্ববিদ্যালয়",
+            "rank": 18,
+            "description": null,
+            "id": "KU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/KU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "KU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/KUET/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Khulna University of Engineering and Technology",
+            "nameBn": "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 19,
+            "description": null,
+            "id": "KUET",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/KUET/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "KUET"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/KUMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Kushtia Medical College",
+            "nameBn": "Kushtia Medical College",
+            "rank": 108,
+            "description": "",
+            "id": "KUMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/KUMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "KUMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/KYAMCS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Khawja Yunus Ali Medical College, Sirajganj",
+            "nameBn": "Khawja Yunus Ali Medical College, Sirajganj",
+            "rank": 136,
+            "description": "",
+            "id": "KYAMCS",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/KYAMCS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "KYAMCS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/LMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Labaid Medical College",
+            "nameBn": "Labaid Medical College",
+            "rank": 138,
+            "description": "",
+            "id": "LMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/LMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "LMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/LUS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Leading University, Sylhet",
+            "nameBn": "Leading University, Sylhet",
+            "rank": 57,
+            "description": "",
+            "id": "LUS",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/LUS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "LUS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/MAGOMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "MAG Osmani Medical College",
+            "nameBn": "MAG Osmani Medical College",
+            "rank": 94,
+            "description": "",
+            "id": "MAGOMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/MAGOMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "MAGOMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/MBMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Maulana Bhasani Medical College",
+            "nameBn": "Maulana Bhasani Medical College",
+            "rank": 139,
+            "description": "",
+            "id": "MBMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/MBMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "MBMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/MBSTU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Mawlana Bhashani Science & Technology University",
+            "nameBn": "মৌলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 20,
+            "description": null,
+            "id": "MBSTU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/MBSTU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "MBSTU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/MCWHD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Medical College for Women and Hospital, Dhaka",
+            "nameBn": "Medical College for Women and Hospital, Dhaka",
+            "rank": 140,
+            "description": "",
+            "id": "MCWHD",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/MCWHD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "MCWHD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/MISTMIST/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Military Institute of Science and Technology (MIST)",
+            "nameBn": "মিলিটারী ইন্সটিটিউট অব সাইন্স এন্ড টেকনোলজী",
+            "rank": 158,
+            "description": null,
+            "id": "MISTMIST",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/MISTMIST/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "MISTMIST"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/MIU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Manarat International University",
+            "nameBn": "Manarat International University",
+            "rank": 58,
+            "description": "",
+            "id": "MIU",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/MIU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "MIU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/MMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Mymensingh Medical College",
+            "nameBn": "Mymensingh Medical College",
+            "rank": 91,
+            "description": "",
+            "id": "MMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/MMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "MMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/MUS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Metropolitan University, Sylhet",
+            "nameBn": "Metropolitan University, Sylhet",
+            "rank": 59,
+            "description": "",
+            "id": "MUS",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/MUS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "MUS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/NBMCS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "North Bengal Medical College, Sirajganj",
+            "nameBn": "North Bengal Medical College, Sirajganj",
+            "rank": 142,
+            "description": "",
+            "id": "NBMCS",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/NBMCS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "NBMCS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/NEMCS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "North East Medical College, Sylhet",
+            "nameBn": "North East Medical College, Sylhet",
+            "rank": 143,
+            "description": "",
+            "id": "NEMCS",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/NEMCS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "NEMCS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/NIMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Northern International Medical College, Dhaka",
+            "nameBn": "Northern International Medical College, Dhaka",
+            "rank": 144,
+            "description": "",
+            "id": "NIMCD",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/NIMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "NIMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/NMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Noakhali Medical College",
+            "nameBn": "Noakhali Medical College",
+            "rank": 104,
+            "description": "",
+            "id": "NMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/NMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "NMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/NMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Nightingale Medical College, Dhaka",
+            "nameBn": "Nightingale Medical College, Dhaka",
+            "rank": 141,
+            "description": "",
+            "id": "NMCD",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/NMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "NMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/NPMCR/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Northern Private Medical College, Rangpur",
+            "nameBn": "Northern Private Medical College, Rangpur",
+            "rank": 145,
+            "description": "",
+            "id": "NPMCR",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/NPMCR/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "NPMCR"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/NSTU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Noakhali Science & Technology University",
+            "nameBn": "নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 22,
+            "description": null,
+            "id": "NSTU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/NSTU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "NSTU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/NSU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "North South University",
+            "nameBn": "নর্থ সাউথ ইউনিভার্সিটি",
+            "rank": 60,
+            "description": null,
+            "id": "NSU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/NSU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "NSU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/NU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "National University",
+            "nameBn": "জাতীয় বিশ্ববিদ্যালয়",
+            "rank": 21,
+            "description": null,
+            "id": "NU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/NU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "NU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/NUB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Northern University Bangladesh",
+            "nameBn": "নর্দার্ন ইউনিভার্সিটি বাংলাদেশ",
+            "rank": 61,
+            "description": null,
+            "id": "NUB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/NUB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "NUB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/O/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Others",
+            "nameBn": "Others",
+            "rank": 159,
+            "description": "",
+            "id": "O",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/O/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "O"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/PASU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Primeasia University",
+            "nameBn": "প্রাইমেশিয়া ইউনিভার্সিটি",
+            "rank": 65,
+            "description": null,
+            "id": "PASU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/PASU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "PASU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/PMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Pabna Medical College",
+            "nameBn": "Pabna Medical College",
+            "rank": 103,
+            "description": "",
+            "id": "PMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/PMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "PMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/PMCHD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Popular Medical College & Hospital, Dhaka",
+            "nameBn": "Popular Medical College & Hospital, Dhaka",
+            "rank": 146,
+            "description": "",
+            "id": "PMCHD",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/PMCHD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "PMCHD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/PMCR/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Prime Medical College, Rangpur",
+            "nameBn": "Prime Medical College, Rangpur",
+            "rank": 147,
+            "description": "",
+            "id": "PMCR",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/PMCR/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "PMCR"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/PRIU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Prime University",
+            "nameBn": "প্রাইম ইউনিভার্সিটি",
+            "rank": 64,
+            "description": null,
+            "id": "PRIU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/PRIU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "PRIU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/PSATU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Patuakhali Science And Technology University",
+            "nameBn": "পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 24,
+            "description": null,
+            "id": "PSATU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/PSATU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "PSATU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/PU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Presidency University",
+            "nameBn": "Presidency University",
+            "rank": 63,
+            "description": "",
+            "id": "PU",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/PU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "PU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/PUC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Premier University, Chittagong",
+            "nameBn": "প্রিমিয়ার উনিভেরসিত্য,চট্টগ্রাম",
+            "rank": 62,
+            "description": null,
+            "id": "PUC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/PUC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "PUC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/PUST/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Pabna University of Science and Technology",
+            "nameBn": "পাবনা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 23,
+            "description": null,
+            "id": "PUST",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/PUST/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "PUST"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/QU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Queens University",
+            "nameBn": "Queens University",
+            "rank": 66,
+            "description": "",
+            "id": "QU",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/QU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "QU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/RCHMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Rangpur Community Hospital Medical College",
+            "nameBn": "Rangpur Community Hospital Medical College",
+            "rank": 148,
+            "description": "",
+            "id": "RCHMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/RCHMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "RCHMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/RMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Rajshahi Medical College",
+            "nameBn": "Rajshahi Medical College",
+            "rank": 93,
+            "description": "",
+            "id": "RMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/RMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "RMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/RNMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Rangpur Medical College",
+            "nameBn": "Rangpur Medical College",
+            "rank": 96,
+            "description": "",
+            "id": "RNMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/RNMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "RNMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/RNU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Rangpur University",
+            "nameBn": "রংপুর বিশ্ববিদ্যালয়",
+            "rank": 27,
+            "description": null,
+            "id": "RNU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/RNU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "RNU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/RU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Rajshahi University",
+            "nameBn": "রাজশাহী বিশ্ববিদ্যালয়",
+            "rank": 25,
+            "description": null,
+            "id": "RU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/RU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "RU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/RUD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Royal University of Dhaka",
+            "nameBn": "Royal University of Dhaka",
+            "rank": 67,
+            "description": "",
+            "id": "RUD",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/RUD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "RUD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/RUET/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Rajshahi University of Engineering & Technology",
+            "nameBn": "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 26,
+            "description": null,
+            "id": "RUET",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/RUET/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "RUET"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SASU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "South Asian University",
+            "nameBn": "সাউথ এশিয়ান ইউনিভার্সিটি",
+            "rank": 88,
+            "description": null,
+            "id": "SASU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SASU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SASU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SAU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Sylhet Agricultural University",
+            "nameBn": "সিলেট কৃষি বিশ্ববিদ্যালয়",
+            "rank": 30,
+            "description": null,
+            "id": "SAU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SAU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SAU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SBAU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Sher-e-Bangla Agricultural University",
+            "nameBn": "শেরে-এ-বাংলা কৃষি বিশ্ববিদ্যালয়",
+            "rank": 29,
+            "description": null,
+            "id": "SBAU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SBAU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SBAU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SEBMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Sher-E-Bangla Medical College",
+            "nameBn": "Sher-E-Bangla Medical College",
+            "rank": 95,
+            "description": "",
+            "id": "SEBMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SEBMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SEBMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SIUS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Sylhet International University, Sylhet",
+            "nameBn": "সিলেট ইন্টারন্যাশনাল ইউনিভার্সিটি ,সিলেট",
+            "rank": 73,
+            "description": null,
+            "id": "SIUS",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SIUS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SIUS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Satkhira Medical College",
+            "nameBn": "Satkhira Medical College",
+            "rank": 109,
+            "description": "",
+            "id": "SMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SMCC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Southern Medical College, Chittagong",
+            "nameBn": "Southern Medical College, Chittagong",
+            "rank": 153,
+            "description": "",
+            "id": "SMCC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SMCC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SMCC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Shahabuddin Medical College, Dhaka",
+            "nameBn": "Shahabuddin Medical College, Dhaka",
+            "rank": 151,
+            "description": "",
+            "id": "SMCD",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SMCH/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Sahabuddin Medical College and Hospital",
+            "nameBn": "Sahabuddin Medical College and Hospital",
+            "rank": 149,
+            "description": "",
+            "id": "SMCH",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SMCH/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SMCH"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SMUCT/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Shanto Mariam University of Creative Technology",
+            "nameBn": "Shanto Mariam University of Creative Technology",
+            "rank": 68,
+            "description": "",
+            "id": "SMUCT",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SMUCT/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SMUCT"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SNIMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Shaheed Nazrul Islam Medical College",
+            "nameBn": "Shaheed Nazrul Islam Medical College",
+            "rank": 107,
+            "description": "",
+            "id": "SNIMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SNIMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SNIMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": 0,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/South East University/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "South East University",
+            "nameBn": "সাউথ ইষ্ট ইউনিভার্সিটি",
+            "rank": null,
+            "description": null,
+            "id": "South East University",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/South East University/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "South East University"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SSKMCG/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Sheikh Sayera Khatun Medical College, Gopalganj",
+            "nameBn": "Sheikh Sayera Khatun Medical College, Gopalganj",
+            "rank": 110,
+            "description": "",
+            "id": "SSKMCG",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SSKMCG/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SSKMCG"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SSMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Sir Salimullah Medical College",
+            "nameBn": "Sir Salimullah Medical College",
+            "rank": 90,
+            "description": "",
+            "id": "SSMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SSMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SSMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SSRMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Shaheed Suhrawardy Medical College",
+            "nameBn": "Shaheed Suhrawardy Medical College",
+            "rank": 102,
+            "description": "",
+            "id": "SSRMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SSRMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SSRMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Southeast University",
+            "nameBn": "সাউথ ইষ্ট ইউনিভার্সিটি",
+            "rank": 69,
+            "description": null,
+            "id": "SU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SUB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Stamford University, Bangladesh",
+            "nameBn": "এস্টামফোর্ড ইউনিভার্সিটি ,বাংলাদেশ",
+            "rank": 71,
+            "description": null,
+            "id": "SUB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SUB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SUB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SUBC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Southern University of Bangladesh , Chittagong",
+            "nameBn": "সাউদার্ন ইউনিভার্সিটি অব বাংলাদেশ,চট্টগ্রাম",
+            "rank": 70,
+            "description": null,
+            "id": "SUBC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SUBC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SUBC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SUOB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "State University Of Bangladesh",
+            "nameBn": "এস্টেট ইউনিভার্সিটি অব বাংলাদেশ",
+            "rank": 72,
+            "description": null,
+            "id": "SUOB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SUOB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SUOB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SUST/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Shahjalal University of Science & Technology",
+            "nameBn": "শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়",
+            "rank": 28,
+            "description": null,
+            "id": "SUST",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SUST/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SUST"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SVMCMS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Samaj Vittik Medical College, Mirzanagar, Savar",
+            "nameBn": "Samaj Vittik Medical College, Mirzanagar, Savar",
+            "rank": 150,
+            "description": "",
+            "id": "SVMCMS",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SVMCMS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SVMCMS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SWMCS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Sylhet Women`s Medical College, Sylhet",
+            "nameBn": "Sylhet Women`s Medical College, Sylhet",
+            "rank": 127,
+            "description": "",
+            "id": "SWMCS",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SWMCS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SWMCS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/SZRMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Shaheed Ziaur Rahman Medical College",
+            "nameBn": "Shaheed Ziaur Rahman Medical College",
+            "rank": 99,
+            "description": "",
+            "id": "SZRMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/SZRMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "SZRMC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/TMMCG/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Tairunnessa Memorial Medical College, Gazipur",
+            "nameBn": "Tairunnessa Memorial Medical College, Gazipur",
+            "rank": 154,
+            "description": "",
+            "id": "TMMCG",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/TMMCG/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "TMMCG"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/TMSSMCB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "TMSS Medical College,Bogra",
+            "nameBn": "TMSS Medical College,Bogra",
+            "rank": 155,
+            "description": "",
+            "id": "TMSSMCB",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/TMSSMCB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "TMSSMCB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/TMU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "The Millenium University",
+            "nameBn": "The Millenium University",
+            "rank": 74,
+            "description": "",
+            "id": "TMU",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/TMU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "TMU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/TPUB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "The Peoples University of Bangladesh",
+            "nameBn": "দ্যা পিওপল্‌স ইউনিভার্সিটি অব বাংলাদেশ",
+            "rank": 75,
+            "description": null,
+            "id": "TPUB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/TPUB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "TPUB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/TUAP/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "The University of Asia Pacific",
+            "nameBn": "দ্যা ইউনিভার্সিটি অব এশিয়া পেসিফিক",
+            "rank": 76,
+            "description": null,
+            "id": "TUAP",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/TUAP/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "TUAP"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/UAMCD/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Uttara Adhunik Medical College,Dhaka",
+            "nameBn": "Uttara Adhunik Medical College,Dhaka",
+            "rank": 157,
+            "description": "",
+            "id": "UAMCD",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/UAMCD/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "UAMCD"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/UC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "University of Chittagong",
+            "nameBn": "চট্টগ্রাম বিশ্ববিদ্যালয়",
+            "rank": 31,
+            "description": null,
+            "id": "UC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/UC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "UC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/UDA/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "University of Development Alternative",
+            "nameBn": "University of Development Alternative",
+            "rank": 78,
+            "description": "",
+            "id": "UDA",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/UDA/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "UDA"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/UITS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "University of Information Technology & Sciences",
+            "nameBn": "ইউনিভার্সিটি অব ইনফর্মেশন টেকনোলজী এন্ড সাইন্স",
+            "rank": 79,
+            "description": null,
+            "id": "UITS",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/UITS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "UITS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/UIU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "United International University",
+            "nameBn": "ইউনাইটেড ইন্টারন্যাশনাল ইউনিভার্সিটি",
+            "rank": 77,
+            "description": null,
+            "id": "UIU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/UIU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "UIU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/ULAB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "University of Liberal Arts Bangladesh",
+            "nameBn": "ইউনিভার্সিটি অব লিবেরাল আর্ট্‌স বাংলাদেশ",
+            "rank": 80,
+            "description": null,
+            "id": "ULAB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/ULAB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "ULAB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/UOSTCIAMS/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "University Of Science and Technology Chittagong. IAMS",
+            "nameBn": "ইউনিভার্সিটি অব সাইন্স এন্ড টেকনোলজী চট্টগ্রাম.আইএস",
+            "rank": 156,
+            "description": null,
+            "id": "UOSTCIAMS",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/UOSTCIAMS/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "UOSTCIAMS"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/USA/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "University of South Asia",
+            "nameBn": "ইউনিভার্সিটি অব সাউথ এশিয়া",
+            "rank": 82,
+            "description": null,
+            "id": "USA",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/USA/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "USA"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/USTC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "University of Science & Technology, Chittagong",
+            "nameBn": "ইউনিভার্সিটি অব সাইন্স এন্ড টেকনোলজী,চট্টগ্রাম",
+            "rank": 81,
+            "description": null,
+            "id": "USTC",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/USTC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "USTC"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/UU/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Uttara University",
+            "nameBn": "উত্তরা ইউনিভার্সিটি",
+            "rank": 83,
+            "description": null,
+            "id": "UU",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/UU/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "UU"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/VUB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Victoria University of Bangladesh",
+            "nameBn": "ভিক্টোরিয়া ইউনিভার্সিটি অব বাংলাদেশ",
+            "rank": 84,
+            "description": null,
+            "id": "VUB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/VUB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "VUB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "Rafiqul_islam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/WUB/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "World University of Bangladesh",
+            "nameBn": "ওয়ার্ল্ড ইউনিভার্সিটি অব বাংলাদেশ",
+            "rank": 85,
+            "description": null,
+            "id": "WUB",
+            "value": null,
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/WUB/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "WUB"
+    },
+    {
+        "HrConfLookupValue": {
+            "isDefault": null,
+            "updatedBy": "anupam",
+            "edit": "<a title='Edit' data-url='/admin/hrms-config/LookupValue/Edit/ZHSWMC/' class='action-type-edit'><i class='fa fa-edit'></i></a>",
+            "name": "Z. H. Sikder Women`s Medical College",
+            "nameBn": "Z. H. Sikder Women`s Medical College",
+            "rank": 152,
+            "description": "",
+            "id": "ZHSWMC",
+            "value": "",
+            "delete": "<a title='Delete' data-url='/admin/hrms-config/LookupValue/Delete/ZHSWMC/' class='action-type-delete'><i class='fa fa-delete'></i></a>"
+        },
+        "id": "ZHSWMC"
+    }
+]

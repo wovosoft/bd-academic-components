@@ -1,0 +1,37 @@
+{
+    "name": "wovosoft/bd-academic-components",
+    "description": "Bangladesh Education Related Information in Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Narayan Adhikary",
+            "email": "wovosoft@gmail.com",
+            "homepage": "https://wovosoft.com"
+        }
+    ],
+    "homepage": "https://github.com/wovosoft/bd-academic-components",
+    "keywords": ["Laravel", "Bangladesh","Academic","Components"],
+    "autoload": {
+        "psr-4": {
+            "Wovosoft\\BdAcademicComponents\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Wovosoft\\BdAcademicComponents\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Wovosoft\\BdAcademicComponents\\BdAcademicComponentsServiceProvider"
+            ],
+            "aliases": {
+                "BdAcademicComponents": "Wovosoft\\BdAcademicComponents\\Facades\\BdAcademicComponents"
+            }
+        }
+    },
+  "require": {
+    "ext-dom": "*"
+  }
+}
