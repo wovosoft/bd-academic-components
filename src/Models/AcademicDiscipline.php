@@ -5,8 +5,6 @@ namespace Wovosoft\BdAcademicComponents\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\HasManyThrough;
-use Wovosoft\BkbHrmsCore\Models\Employee;
 
 /**
  * Wovosoft\BdAcademicComponents\Models\AcademicDiscipline
